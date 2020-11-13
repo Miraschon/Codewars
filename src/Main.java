@@ -11,9 +11,10 @@ public class Main {
 
         int[] num=new int[n];
         for (int i = 0; i < n; i++) {
-            num[i]=i;
+            num[i]=i+1;
         }
+    }
 
-    }
-    }
+
+}
 
