@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d5161eb-960b-4a5d-a56f-4efd41ee823d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlterCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FixCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -22,8 +24,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="140">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FixCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AlterCapitalization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -32,7 +52,16 @@
         <entry file="file://$PROJECT_DIR$/src/Zeroes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AlterCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -67,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Spaceless.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="240">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -96,7 +125,6 @@
         <option value="$PROJECT_DIR$/src/Ndivise.java" />
         <option value="$PROJECT_DIR$/src/Spaceless.java" />
         <option value="$PROJECT_DIR$/src/XDivisible.java" />
-        <option value="$PROJECT_DIR$/src/AlterCase.java" />
         <option value="$PROJECT_DIR$/src/PositiveSum.java" />
         <option value="$PROJECT_DIR$/src/FirstLast.java" />
         <option value="$PROJECT_DIR$/src/Negative.java" />
@@ -105,7 +133,10 @@
         <option value="$PROJECT_DIR$/src/OddEven.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
         <option value="$PROJECT_DIR$/src/Zeroes.java" />
+        <option value="$PROJECT_DIR$/src/AlterCase.java" />
+        <option value="$PROJECT_DIR$/src/AlterCapitalization.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/FixCase.java" />
       </list>
     </option>
   </component>
@@ -120,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +177,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +206,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zeroes">
+  <component name="RunManager" selected="Application.FixCase">
+    <configuration name="AlterCapitalization" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AlterCapitalization" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AlterCase" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AlterCase" />
       <module name="untitled1" />
@@ -192,6 +230,13 @@
     </configuration>
     <configuration name="FirstLast" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="FirstLast" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixCase" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FixCase" />
       <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -313,6 +358,8 @@
       <item itemvalue="Application.Invert" />
       <item itemvalue="Application.Spaceless" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FixCase" />
+      <item itemvalue="Application.AlterCapitalization" />
       <item itemvalue="Application.OddEven" />
       <item itemvalue="Application.PositiveNegative" />
       <item itemvalue="Application.Negative" />
@@ -353,7 +400,8 @@
       <workItem from="1604985044701" duration="4131000" />
       <workItem from="1605078844035" duration="8184000" />
       <workItem from="1605155575741" duration="3096000" />
-      <workItem from="1605251795507" duration="5303000" />
+      <workItem from="1605251795507" duration="5754000" />
+      <workItem from="1605329195269" duration="3300000" />
     </task>
     <task id="LOCAL-00001" summary="codewars commit">
       <created>1605251825291</created>
@@ -362,17 +410,24 @@
       <option name="project" value="LOCAL" />
       <updated>1605251825291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codewars commit">
+      <created>1605261675706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605261675706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42019000" />
+    <option name="totallyTimeSpent" value="45770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -416,13 +471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AlterCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -489,6 +537,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#59#60#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ndivise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="29" selection-start-line="4" selection-start-column="7" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MinNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -505,40 +571,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Spaceless.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="240">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ndivise.java">
+    <entry file="file://$PROJECT_DIR$/src/AlterCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="29" selection-start-line="4" selection-start-column="7" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#59#60#0" expanded="true" />
-            <element signature="e#95#96#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="260">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlterCapitalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
