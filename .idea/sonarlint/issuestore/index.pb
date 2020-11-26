@@ -49,3 +49,9 @@ J
 src/TriangularNumbers.java,6\1\61653a32f111cbd0a0376495ec99e662e11c2918
 A
 src/NOddEven.java,f\2\f24111d11a769d8fb6a86477f0290fe66579556c
+p
+@.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml,3\7\37fc5a26bbcffda5e3b31edfc0351dc7cfb65af8
+=
+untitled1.iml,3\e\3ea08f498b8463c641a73cd591f84a2420b90d3a
+E
+src/DeleteVowels.java,1\7\1731ef4cadd1b3c53cac624106747ca793609aa5

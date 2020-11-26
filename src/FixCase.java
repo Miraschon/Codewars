@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*given a string that may have mixed uppercase and lowercase letters, convert that string to either lowercase only or uppercase:
+    make as few changes as possible.
+    if the string contains equal number of uppercase and lowercase letters, convert the string to lowercase.
+ */
 public class FixCase {
     public static void main(String[] args) {
         System.out.println("Type a sentence");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a list of numbers, determine whether the sum of its elements is odd or even. */
 public class NOddEven {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

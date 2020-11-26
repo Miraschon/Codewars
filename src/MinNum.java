@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a list of numbers, find the minimum int. */
 public class MinNum {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

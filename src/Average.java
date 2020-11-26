@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*Given a list of numbers, find the average*/
 public class Average {
     public static void main(String[] args) {
         System.out.println("fill in the numbers");

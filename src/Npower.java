@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/*Given an array with positive numbers and a number N, find the N-th power of the element in the array with the index N. */
 public class Npower {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

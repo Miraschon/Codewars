@@ -1,4 +1,5 @@
 import java.util.Scanner;
+/*Given a set of numbers, return the additive inverse of each. Each positive becomes negative, and the negatives become positives.*/
 public class Invert {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

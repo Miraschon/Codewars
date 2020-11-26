@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a list of numbers, return the number of positive and negative elements */
 public class PositiveNegative {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

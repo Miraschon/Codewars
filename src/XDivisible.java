@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a number, determine whether it's divisible by x. */
 public class XDivisible {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

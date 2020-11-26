@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a string, remove the first and the last characters */
 public class FirstLast {
     public static void main(String[] args) {
         System.out.println("Type the string");

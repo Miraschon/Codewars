@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given an array of numbers, return the number of zeroes*/
 public class Zeroes {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

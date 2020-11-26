@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a string with varying capitalization, change it so that each lowercase letter becomes uppercase and each uppercase letter becomes lowercase. */
 public class AlterCase {
     public static void main(String[] args) {
         System.out.println("Type a sentence");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*Return the nth triangular number. */
 public class TriangularNumbers {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

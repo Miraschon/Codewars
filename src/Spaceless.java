@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a string, remove all spaces*/
 public class Spaceless {
 
     public static void main(String[] args) {

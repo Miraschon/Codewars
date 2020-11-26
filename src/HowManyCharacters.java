@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.Scanner;
+/* Given a string, return a list of ints detailing the count of uppercase letters, lowercase, numbers and special characters, as follows.
 
+Solve("*'&ABCDabcde12345") = [4,5,5,3].
+--the order is: uppercase letters, lowercase, numbers and special characters.*/
 public class HowManyCharacters {
     public static void main(String[] args) {
         System.out.println("Type a sentence");

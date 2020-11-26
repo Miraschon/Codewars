@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+/*Given an N number, checks if it's divisible by two numbers x AND y.
+ */
 public class Ndivise {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

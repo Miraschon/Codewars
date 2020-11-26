@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given an array, find the sum of all the positive numbers in it*/
 public class PositiveSum {
     public static void main(String[] args) {
         System.out.println("Fill in the numbers");

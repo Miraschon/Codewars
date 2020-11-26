@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a string, find the length of the shortest word */
 public class Shortest {
     public static void main(String[] args) {
         System.out.println("Type a sentence");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Given a string */
 public class AlterCapitalization {
     public static void main(String[] args) {
         System.out.println("Type a sentence");
