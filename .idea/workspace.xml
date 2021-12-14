@@ -5,68 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea4efe7-6671-4fcd-ada6-c32aca1f9485" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/012a9fba898efd5ad2f1e21098071020d669eea7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06e92b7234775bbd691e1cdcf3fef1c1ae891b78" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c49434b4aebaf42475873f38cf80d2510717733" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/174eb205a8b8aca848f7eb3808d40726a57fd44a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29cb199a38bd987dd868d356f11175b3d88203bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37981523cf8d5c8e90b194342ba112136e2c03a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38b3fb1c561ab6f2f7ce5c7c87cd17df63e2370b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3af04eb18a6a46e0e68f6e26ec5e7d6f10511dd8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70e9389e3a035470b93c0aad18c7a0c520611c1b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c7d12ebb5dd09a3530051c4e044415ccb3ee248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4ecbfad8d9b83d83a855c0ebfdbb222a3087d9c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca21071a2aaa10da9f391b21ee274e868ffb9989" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4451fefa9c26ab7caea7bd7e44a9c67e05575c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df250e671dfd2b07bc155e16b2f23e7e27e574d5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edb3d8735178c830c5005f9a823763426b0e8918" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnesAndZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlterCapitalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlterCapitalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlterCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlterCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeleteVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FixCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FixCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HowManyCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HowManyCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Invert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Invert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LetterRemoval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MinNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ndivise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ndivise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Negative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Negative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Npower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Npower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PositiveNegative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PositiveSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PositiveSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shortest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shortest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spaceless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spaceless.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Squaresum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Squaresum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TriangularNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TriangularNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XDivisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/XDivisible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zeroes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="22E2cNHvGjR8atP8oCiMmk5J87U" />
   <component name="ProjectViewState">
@@ -95,7 +59,7 @@
       <recent name="D:\projects\Codewars\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OnesAndZeroes">
     <configuration name="DeleteVowels" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DeleteVowels" />
       <module name="Codewars" />
@@ -103,6 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OnesAndZeroes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OnesAndZeroes" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DeleteVowels" />
+      <item itemvalue="Application.OnesAndZeroes" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,11 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639388505462</updated>
-      <workItem from="1639388506736" duration="4836000" />
+      <workItem from="1639388506736" duration="5674000" />
+      <workItem from="1639465494322" duration="1258000" />
+      <workItem from="1639473499992" duration="2785000" />
     </task>
+    <task id="LOCAL-00001" summary="All current tasks are done">
+      <created>1639411329379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639411329379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All current tasks are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="All current tasks are done" />
   </component>
 </project>
