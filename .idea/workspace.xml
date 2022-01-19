@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eea4efe7-6671-4fcd-ada6-c32aca1f9485" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OnesAndZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BalancedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BumpyRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GeneratePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingleDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SmallEnough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TurnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ZeroToN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +65,21 @@
       <recent name="D:\projects\Codewars\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OnesAndZeroes">
+  <component name="RunManager" selected="Application.SmallEnough">
+    <configuration name="BalancedNumbers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BalancedNumbers" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BumpyRoad" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BumpyRoad" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeleteVowels" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DeleteVowels" />
       <module name="Codewars" />
@@ -74,9 +94,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallEnough" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SmallEnough" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TurnTest" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DeleteVowels" />
       <item itemvalue="Application.OnesAndZeroes" />
+      <item itemvalue="Application.BumpyRoad" />
+      <item itemvalue="Application.BalancedNumbers" />
+      <item itemvalue="Application.TurnTest" />
+      <item itemvalue="Application.SmallEnough" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +127,17 @@
       <updated>1639388505462</updated>
       <workItem from="1639388506736" duration="5674000" />
       <workItem from="1639465494322" duration="1258000" />
-      <workItem from="1639473499992" duration="2785000" />
+      <workItem from="1639473499992" duration="2817000" />
+      <workItem from="1639497523239" duration="1177000" />
+      <workItem from="1639550359314" duration="76000" />
+      <workItem from="1639555263831" duration="4775000" />
+      <workItem from="1639729694539" duration="1784000" />
+      <workItem from="1640073040301" duration="236000" />
+      <workItem from="1640166592480" duration="3375000" />
+      <workItem from="1640245587418" duration="8114000" />
+      <workItem from="1640328374012" duration="598000" />
+      <workItem from="1642406705637" duration="3796000" />
+      <workItem from="1642486267640" duration="5214000" />
     </task>
     <task id="LOCAL-00001" summary="All current tasks are done">
       <created>1639411329379</created>
@@ -98,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639411329379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All current tasks are done">
+      <created>1639493583511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639493583511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
